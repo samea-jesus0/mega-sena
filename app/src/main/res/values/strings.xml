@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mega Tigrinho</string>
+    <string name="titulo">Mega Sena</string>
+    <string name="textoDigitar">Digite um número entre 6 e 15.</string>
+</resources>
